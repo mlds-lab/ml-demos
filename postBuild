@@ -1,1 +1,2 @@
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
+jupyter nbextension enable --py widgetsnbextension
